@@ -1,7 +1,7 @@
-const botoes = document.querySelectorAll("botao");
-for (let 1=0); 1 <botoes.lenght; i++){
+const botoes = document.querySelectorAll(" .botao");
+for (let i =0; 1 < botoes.lenght; i++) {
   botoes [i].onclick = function (){
-    botoes [i].classList(" ativo")
+    botoes [i].classList(" .ativo")
   }
 console.log("botoes");
 }
